@@ -1,5 +1,11 @@
 # Align audio and text using wav2vec2-bert models
 
+## Community
+
+- **Discord**: https://bit.ly/discord-uds
+- Speech Recognition: https://t.me/speech_recognition_uk
+- Speech Synthesis: https://t.me/speech_synthesis_uk
+
 ## Install
 
 ```bash
