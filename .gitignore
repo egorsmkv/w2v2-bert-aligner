@@ -1,0 +1,8 @@
+.ruff_cache/
+.venv/
+
+filtered-cv10-test/
+aligned-data/
+
+filtered-cv10-test.zip
+rows.csv

@@ -1,0 +1,6 @@
+transformers
+torch
+sphn
+natsort
+ctc_segmentation
+numpy<2
